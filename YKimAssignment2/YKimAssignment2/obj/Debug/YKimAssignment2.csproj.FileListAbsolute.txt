@@ -1,0 +1,22 @@
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\bin\Debug\YKimAssignment2.exe.config
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\bin\Debug\YKimAssignment2.exe
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\bin\Debug\YKimAssignment2.pdb
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.csprojAssemblyReference.cache
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.frmControlPanel.resources
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.Properties.Resources.resources
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.csproj.GenerateResource.cache
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.exe
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.pdb
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.frmDesign.resources
+C:\Users\yunic\OneDrive\Desktop\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.frmPlay.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\bin\Debug\YKimAssignment2.exe.config
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\bin\Debug\YKimAssignment2.exe
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\bin\Debug\YKimAssignment2.pdb
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.csprojAssemblyReference.cache
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.frmControlPanel.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.frmDesign.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.frmPlay.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.Properties.Resources.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.csproj.GenerateResource.cache
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.exe
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 3\PROG2370-4 Game Programming with Data Structure\Assign\Assign2\YKimAssignment2\YKimAssignment2\YKimAssignment2\obj\Debug\YKimAssignment2.pdb
